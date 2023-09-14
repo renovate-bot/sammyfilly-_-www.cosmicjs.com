@@ -1,0 +1,35 @@
+Data Fetching
+
+Data fetching in Next.js allows you to render your content in different ways, depending on your application's use case. These include pre-rendering with Server-side Rendering or Static Generation, and updating or creating content at runtime with Incremental Static Regeneration.
+
+Examples
+
+WordPress Example(Demo)
+Blog Starter using markdown files (Demo)
+DatoCMS Example (Demo)
+TakeShape Example (Demo)
+Sanity Example (Demo)
+Prismic Example (Demo)
+Contentful Example (Demo)
+Strapi Example (Demo)
+Prepr Example (Demo)
+Agility CMS Example (Demo)
+Cosmic Example (Demo)
+ButterCMS Example (Demo)
+Storyblok Example (Demo)
+GraphCMS Example (Demo)
+Kontent Example (Demo)
+Static Tweet Demo
+Enterspeed Example (Demo)
+getStaticProps
+Fetch data and generate static pages with `getStaticProps`. Learn more about this API for data fetching in Next.js.
+getStaticPaths
+Fetch data and generate static pages with `getStaticProps`. Learn more about this API for data fetching in Next.js.
+Forms and Mutations
+Learn how to handle form submissions and data mutations with Next.js.
+getServerSideProps
+Fetch data on each request with `getServerSideProps`.
+Incremental Static Regeneration
+Learn how to create or update static pages at runtime with Incremental Static Regeneration.
+Client-side Fetching
+Learn about client-side data fetching, and how to use SWR, a data fetching React hook library that handles caching, revalidation, focus tracking, refetching on interval and more.
